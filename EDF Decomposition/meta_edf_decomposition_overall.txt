@@ -1,0 +1,74 @@
+O_Kniebeugen :
+Amount of EDF files : 20
+Minimum length of EDF files : 4.81 hours
+Maximum length of EDF files : 13.23 hours
+Fs variations :[250. 256. 400.] Hz
+Most Used Fs :256.0 Hz
+Unique channels :['ABDM' 'BEMG' 'C3' 'C3-A2' 'C4' 'C4-A1' 'EEG_C3' 'EEG_C4' 'EKG' 'EMG'
+ 'EOGH-0' 'EOGH-1' 'EOGH1' 'EOGH2' 'F3-A2' 'F4-A1' 'FLOW' 'OXI' 'P4-P3'
+ 'POS' 'RESA' 'RESN' 'REST' 'SCHN' 'THRX' 'Ton']
+Common channels :[]
+Common channel amount :0
+
+****************************************
+FILD_Raw_data :
+Amount of EDF files : 15
+Minimum length of EDF files : 10.17 hours
+Maximum length of EDF files : 13.29 hours
+Fs variations :[100.] Hz
+Most Used Fs :100.0 Hz
+Unique channels :['Body' 'ECG' 'EEG A1-A2' 'EEG C3-A2' 'EEG C4-A1' 'EEG F3-A2' 'EEG F4-A1'
+ 'EEG O1-A2' 'EEG O2-A1' 'EMG Chin-0' 'EMG Chin-1' 'EOG Left' 'EOG Right'
+ 'Effort Abd' 'Effort Tho' 'Flow Patient' 'LUX' 'Leg Leg EMG' 'Puls'
+ 'Snore' 'SpO2']
+Common channels :['LUX', 'EEG C3-A2', 'EOG Left', 'EEG C4-A1', 'EOG Right', 'Effort Abd', 'EEG F3-A2', 'Effort Tho', 'SpO2', 'ECG', 'Puls', 'EEG O1-A2', 'EMG Chin-1', 'EEG A1-A2', 'Body', 'Flow Patient', 'EEG O2-A1', 'EEG F4-A1', 'Leg Leg EMG', 'Snore', 'EMG Chin-0']
+Common channel amount :21
+
+****************************************
+LD_EEG_Jarrot :
+Amount of EDF files : 7
+Minimum length of EDF files : 10.03 hours
+Maximum length of EDF files : 13.03 hours
+Fs variations :[256.] Hz
+Most Used Fs :256.0 Hz
+Unique channels :['A1' 'A2' 'Battery' 'C3' 'C3:A2' 'C4' 'C4:A1' 'ECG 2' 'EMG' 'EMG+' 'EMG-'
+ 'EOG1' 'EOG1:A1' 'EOG1:A2' 'EOG2' 'EOG2:A1' 'EOG2:A2' 'F3' 'F3:A2' 'F4'
+ 'F4:A1' 'Light' 'O1' 'O1:A2' 'O2' 'O2:A1']
+Common channels :['O1:A2', 'F3', 'A2', 'EOG1', 'O1', 'ECG 2', 'EMG+', 'C3:A2', 'EOG1:A2', 'EMG-', 'C3', 'Light', 'O2:A1', 'O2', 'C4:A1', 'F3:A2', 'EOG2', 'F4:A1', 'Battery', 'A1', 'EOG2:A1', 'F4', 'EMG', 'EOG2:A2', 'C4', 'EOG1:A1']
+Common channel amount :26
+
+****************************************
+Sergio :
+Amount of EDF files : 1
+Minimum length of EDF files : 3.6 hours
+Maximum length of EDF files : 3.6 hours
+Fs variations :[200.] Hz
+Most Used Fs :200.0 Hz
+Unique channels :['Card' 'EEG A1' 'EEG A2' 'EEG C3' 'EEG C4' 'EEG Cz' 'EEG F3' 'EEG F4'
+ 'EEG F7' 'EEG F8' 'EEG Fp1' 'EEG Fp2' 'EEG Fz' 'EEG O1' 'EEG O2' 'EEG Oz'
+ 'EEG P3' 'EEG P4' 'EEG Pz' 'EEG T3' 'EEG T4' 'EEG T5' 'EEG T6' 'FreqC'
+ 'Oc1' 'Oc2' 'Quei']
+Common channels :['EEG F7', 'EEG T3', 'EEG T5', 'EEG Fp1', 'EEG F3', 'EEG C3', 'EEG P3', 'EEG O1', 'EEG F8', 'EEG T4', 'EEG T6', 'EEG Fp2', 'EEG F4', 'EEG C4', 'EEG P4', 'EEG O2', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG Oz', 'EEG A1', 'EEG A2', 'Quei', 'Card', 'Oc1', 'Oc2', 'FreqC']
+Common channel amount :27
+
+****************************************
+Overall :
+Amount of EDF files :43
+Minimum length of whole EDF files 3.6 hours
+Maximum Length of whole EDF files 13.29 hours
+Total Fs variations :[100. 200. 250. 256. 400.] Hz
+Most Used Fs :256.0 Hz
+Unique channels :['A1' 'A2' 'ABDM' 'BEMG' 'Battery' 'Body' 'C3' 'C3-A2' 'C3:A2' 'C4'
+ 'C4-A1' 'C4:A1' 'Card' 'ECG' 'ECG 2' 'EEG A1' 'EEG A1-A2' 'EEG A2'
+ 'EEG C3' 'EEG C3-A2' 'EEG C4' 'EEG C4-A1' 'EEG Cz' 'EEG F3' 'EEG F3-A2'
+ 'EEG F4' 'EEG F4-A1' 'EEG F7' 'EEG F8' 'EEG Fp1' 'EEG Fp2' 'EEG Fz'
+ 'EEG O1' 'EEG O1-A2' 'EEG O2' 'EEG O2-A1' 'EEG Oz' 'EEG P3' 'EEG P4'
+ 'EEG Pz' 'EEG T3' 'EEG T4' 'EEG T5' 'EEG T6' 'EEG_C3' 'EEG_C4' 'EKG'
+ 'EMG' 'EMG Chin-0' 'EMG Chin-1' 'EMG+' 'EMG-' 'EOG Left' 'EOG Right'
+ 'EOG1' 'EOG1:A1' 'EOG1:A2' 'EOG2' 'EOG2:A1' 'EOG2:A2' 'EOGH-0' 'EOGH-1'
+ 'EOGH1' 'EOGH2' 'Effort Abd' 'Effort Tho' 'F3' 'F3-A2' 'F3:A2' 'F4'
+ 'F4-A1' 'F4:A1' 'FLOW' 'Flow Patient' 'FreqC' 'LUX' 'Leg Leg EMG' 'Light'
+ 'O1' 'O1:A2' 'O2' 'O2:A1' 'OXI' 'Oc1' 'Oc2' 'P4-P3' 'POS' 'Puls' 'Quei'
+ 'RESA' 'RESN' 'REST' 'SCHN' 'Snore' 'SpO2' 'THRX' 'Ton']
+Common channels :[]
+Common channel amount :0

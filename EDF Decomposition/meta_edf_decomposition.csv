@@ -1,0 +1,55 @@
+O_Kniebeugen,File ID,Channel Size,Channels,Fs,Length(minutes),Length(hours)
+,LD_O0203,2,"['EEG_C3', 'EEG_C4']",256.0,288.82,4.81
+,LD_O0301,2,"['EEG_C3', 'EEG_C4']",256.0,456.97,7.62
+,LD_O0302,2,"['EEG_C3', 'EEG_C4']",256.0,496.85,8.28
+,LD_O0303,2,"['EEG_C3', 'EEG_C4']",256.0,466.47,7.77
+,LD_O0304,2,"['EEG_C3', 'EEG_C4']",256.0,536.3,8.94
+,LD_O0603,2,"['C4-A1', 'C3-A2']",256.0,633.0,10.55
+,O0203!,10,"['EEG_C3', 'EEG_C4', 'EOGH-0', 'EOGH-1', 'EMG', 'EKG', 'RESN', 'REST', 'RESA', 'BEMG']",400.0,288.82,4.81
+,O0203_eyes,2,"['EOGH-0', 'EOGH-1']",256.0,288.82,4.81
+,O0301!,11,"['EEG_C3', 'EEG_C4', 'EOGH-0', 'EOGH-1', 'EMG', 'EKG', 'RESN', 'REST', 'RESA', 'BEMG', 'SCHN']",400.0,456.97,7.62
+,O0301_eyes,2,"['EOGH-0', 'EOGH-1']",256.0,456.97,7.62
+,O0302!,11,"['EEG_C3', 'EEG_C4', 'EOGH-0', 'EOGH-1', 'EMG', 'EKG', 'RESN', 'REST', 'RESA', 'BEMG', 'SCHN']",400.0,496.85,8.28
+,O0302_eyes,2,"['EOGH-0', 'EOGH-1']",256.0,496.85,8.28
+,O0303!,10,"['EEG_C3', 'EEG_C4', 'EOGH-0', 'EOGH-1', 'EMG', 'EKG', 'RESN', 'REST', 'RESA', 'BEMG']",400.0,466.47,7.77
+,O0303_eyes,2,"['EOGH-0', 'EOGH-1']",256.0,466.47,7.77
+,O0304!,10,"['EEG_C3', 'EEG_C4', 'EOGH-0', 'EOGH-1', 'EMG', 'EKG', 'RESN', 'REST', 'RESA', 'BEMG']",400.0,536.3,8.94
+,O0304_eyes,2,"['EOGH-0', 'EOGH-1']",256.0,536.3,8.94
+,O0406!,7,"['C3', 'C4', 'EOGH1', 'EOGH2', 'EMG', 'RESN', 'EKG']",250.0,622.67,10.38
+,O0501!,7,"['C3', 'C4', 'EOGH1', 'EOGH2', 'EMG', 'RESN', 'EKG']",250.0,794.0,13.23
+,O0603!,12,"['C4-A1', 'C3-A2', 'F4-A1', 'F3-A2', 'P4-P3', 'EKG', 'FLOW', 'THRX', 'ABDM', 'OXI', 'POS', 'Ton']",250.0,633.0,10.55
+,O0603_eyes,2,"['F4-A1', 'F3-A2']",256.0,633.0,10.55
+
+
+FILD_Raw_data,File ID,Channel Size,Channels,Fs,Length(minutes),Length(hours)
+,FILD10_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,757.15,12.62
+,FILD14_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,720.48,12.01
+,FILD14_n2,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,718.5,11.97
+,FILD17_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,722.3,12.04
+,FILD17_n2,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,695.0,11.58
+,FILD19_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,776.03,12.93
+,FILD202_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,680.08,11.33
+,FILD202_n2,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,610.48,10.17
+,FILD20_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,722.95,12.05
+,FILD21_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,782.15,13.04
+,FILD21_n2,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,797.5,13.29
+,FILD4_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,780.67,13.01
+,FILD59_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,742.88,12.38
+,FILD8_n1,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,723.62,12.06
+,FILD8_n2,21,"['EOG Left', 'EOG Right', 'EEG F3-A2', 'EEG F4-A1', 'EEG C3-A2', 'EEG A1-A2', 'EMG Chin-0', 'ECG', 'Flow Patient', 'Effort Tho', 'Effort Abd', 'Snore', 'SpO2', 'Puls', 'Leg Leg EMG', 'Body', 'LUX', 'EEG C4-A1', 'EEG O1-A2', 'EEG O2-A1', 'EMG Chin-1']",100.0,646.2,10.77
+
+
+LD_EEG_Jarrot,File ID,Channel Size,Channels,Fs,Length(minutes),Length(hours)
+,AC P243.14.10.2019,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,602.0,10.03
+,AC P265.14.01.2020,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,602.0,10.03
+,VR P253.26.12.2019,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,602.0,10.03
+,VR P261.06.01.2020,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,661.98,11.03
+,VR P261.07.01.2020,26,"['EOG1:A2', 'EOG2:A1', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'EMG', 'ECG 2', 'EOG1', 'EOG2', 'EOG1:A1', 'EOG2:A2', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,661.98,11.03
+,VR1 P266.03.02.2020,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,602.0,10.03
+,VR2 P227.07.03.2019,26,"['EOG1', 'EOG2', 'EOG1:A1', 'EOG1:A2', 'EOG2:A1', 'EOG2:A2', 'F3:A2', 'F4:A1', 'C3:A2', 'C4:A1', 'O1:A2', 'O2:A1', 'F3', 'F4', 'C3', 'C4', 'A1', 'A2', 'O1', 'O2', 'EMG', 'ECG 2', 'EMG+', 'EMG-', 'Light', 'Battery']",256.0,782.0,13.03
+
+
+Sergio,File ID,Channel Size,Channels,Fs,Length(minutes),Length(hours)
+,0008001,27,"['EEG F7', 'EEG T3', 'EEG T5', 'EEG Fp1', 'EEG F3', 'EEG C3', 'EEG P3', 'EEG O1', 'EEG F8', 'EEG T4', 'EEG T6', 'EEG Fp2', 'EEG F4', 'EEG C4', 'EEG P4', 'EEG O2', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG Oz', 'EEG A1', 'EEG A2', 'Quei', 'Card', 'Oc1', 'Oc2', 'FreqC']",200.0,215.83,3.6
+
+
