@@ -1,0 +1,27 @@
+EDFDecomposer(multipleFolders=folders, writing_directory=directory)
+
+Functions:
+1- The function ables to decompose infinite amount of EDF files as input by giving directory list
+2- It decomposes specifications of EDF files folder by folder, create .csv file and put information into that file.
+   * It extracts meta_edf_decomposition.csv file into directory you want.
+   * It writes file ID, channel_size, channel names, sampling rates, length of EEG data as minutes and hours column by column
+     for each EDF file grouped by each folder contains EDF files in it (most probably files from same lab).
+3- It extracts meta_edf_decomposition_overall.txt file into directory you want.
+   * Inside of a .txt file these information are extracted folder by folder:
+       - Amount of EDF files
+       - Time period of smallest EDF file
+       - Time period of biggest EDF file
+       - Sampling rate (Fs) variations
+       - Most used Fs
+       - Unique channels
+       - Common channels
+       - Amount of common channels
+   * Overall information regarding to all .edf files of all folders are extracted in the final:
+       - Total amount of whole EDF files
+       - Time period of smallest EDF file
+       - Time period of biggest EDF file
+       - Sampling rate (Fs) variations
+       - Most used Fs
+       - Total unique channels
+       - Total common channels
+       - Total amount of common channels
