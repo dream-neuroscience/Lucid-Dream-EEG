@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import extremeEEGSignalAnalyzer as chetto_EEG
 import pickle
 chetto_EEG = chetto_EEG.extremeEEGSignalAnalyzer()
-%matplotlib qt
+# %matplotlib qt
 os.chdir('C:/Users/caghangir/Desktop/PhD/Research/Lucid Dream EEG/Codes/Pickle Files')
 #%%
 folder_path = 'C:/Users/caghangir/Desktop/PhD/Research/Lucid Dream EEG/Total Data/Datasets/FILD_Raw_data/Lucidity Found'
