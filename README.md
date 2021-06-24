@@ -3,6 +3,7 @@ The repository regarding to Lucid Dream EEG Project
 
 
 ************************** Pipeline Functions **********************************
+
 Pipeline functions are here to make our life easier. They are functions who use functions in ordered form to generate high-end goals at one run. 
 Main pipelines:
 * eeg_epoching_pipeline_of_given_folder(): It gets folder path, time interval for each file and couple other inputs to extract epochs of MNE structure.
