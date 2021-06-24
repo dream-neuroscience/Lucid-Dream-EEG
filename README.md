@@ -1,6 +1,10 @@
 # Lucid-Dream-EEG
 The repository regarding to Lucid Dream EEG Project
 
+************************ Most important Scripts ******************************
+1) lucid_dream_EEG_analysis_epoching.py : It creates epochs from folder paths of all datasets
+
+3) lucid_dream_EEG_analysis_spectralanalysis_comparative.py : It does comparative spectral analysis between Scalp power and CSD.
 
 ************************** Pipeline Functions **********************************
 
